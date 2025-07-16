@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dialect-learning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dialect-learning.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
